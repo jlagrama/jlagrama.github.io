@@ -1,0 +1,42 @@
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+   
+}
+
+.box1{
+    background-color: red;
+}
+
+.box2{
+    background-color: green;
+}
+
+.box3{
+    background-color: yellow;
+}
+
+.box4{
+    background-color: purple;
+}
+
+.box4{
+    background-color: orange;
+}
+.box5{
+    background-color: pink;
+}
+.box6{
+    background-color: cyan;
+}
+
+.box7{
+    background-color: brown;
+}
+.box8{
+    background-color: gray;
+}
+.container{
+    display: flex;
+}
